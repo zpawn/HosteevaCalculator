@@ -5,6 +5,10 @@ HosteevaCalculator
 
 `yarn` - install dependencies
 
-`yarn webpack` - create bundle
-
 `yarn start` - start project
+
+`build` - create production bundle
+
+`build:dev` - create deb bundle
+
+`analyzer` - run bundle analyzer
