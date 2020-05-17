@@ -1,5 +1,4 @@
-import { Calculator } from './modules/Calculator/Calculator';
-import './styles/creative.css';
-import './styles/style.css';
+import { Calculator } from '@modules/Calculator/Calculator';
+import './styles/index.css';
 
 const calc = new Calculator();

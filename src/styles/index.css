@@ -1,0 +1,19 @@
+@import '~normalize.css';
+@import './creative.css';
+@import './style.css';
+@import './fonts.css';
+
+.header {
+    text-align: center;
+}
+
+.title {
+    font-family: 'Raleway-Thin', sans-serif;
+    color: #292929;
+}
+
+body {
+    background-image: url('../assets/bg.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}

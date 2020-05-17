@@ -1,7 +1,7 @@
 import * as $ from 'jquery';
-import { isNumber, isReset, isAdditional, isOperation, isEqual, reduceResult } from '../../utils/helpers';
-import { operationsMap } from '../../utils/operationsMap';
-import { DISPLAY, PAD } from '../../utils/constants';
+import { isNumber, isReset, isAdditional, isOperation, isEqual, reduceResult } from '@utils/helpers';
+import { operationsMap } from '@utils/operationsMap';
+import { DISPLAY, PAD } from '@utils/constants';
 
 function Calculator() {
     this.flow = [];
